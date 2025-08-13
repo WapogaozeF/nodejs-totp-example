@@ -1,6 +1,6 @@
-# TOTP Auth
+# Node.js TOTP Auth
 
-## Required environment
+## Required env
 
 ```
 DATABASE_URL=postgresql://username:password@localhost:5432/totp?schema=public
